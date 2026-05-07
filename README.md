@@ -42,6 +42,13 @@ interpreter.py
 chessPictures.py
 pieces.py
 colors.py
+Ejercicio2a.py
+Ejercicio2b.py
+Ejercicio2c.py
+Ejercicio2d.py
+Ejercicio2e.py
+Ejercicio2f.py
+Ejercicio2g.py
 Ejercicio2h.py
 Ejercicio2i.py
 ```
