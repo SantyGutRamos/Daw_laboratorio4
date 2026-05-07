@@ -4,7 +4,7 @@
 
 - Python 3.x
 - Pygame
-
+- NO python 3.14
 ---
 
 ## Crear y activar entorno virtual
