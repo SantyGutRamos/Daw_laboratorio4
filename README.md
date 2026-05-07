@@ -27,7 +27,7 @@ source daw/bin/activate
 ## Instalar dependencias
 
 ```bash
-pip install pygame
+pip install -r requirements.txt
 ```
 
 ---

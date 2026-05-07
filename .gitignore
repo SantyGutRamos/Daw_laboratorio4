@@ -1,4 +1,5 @@
 daw/
+venv_pygame
 venv/
 env/
 __pycache__/
