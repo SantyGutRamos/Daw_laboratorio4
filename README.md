@@ -69,3 +69,4 @@ python Ejercicio2h.py
 python Ejercicio2i.py
 ```
 ### Link del video
+https://www.youtube.com/watch?v=FPnlKYRAoyw
